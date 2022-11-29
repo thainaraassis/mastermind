@@ -21,7 +21,7 @@ vlog nome_do_codigo_tb.v
 ```
 vsim -c nome_da_pasta_com_os_arquivos.nome_do_codigo_tb
 ```
-4. Após compilar, você deve digitar o seguinte comando no terminal:
+5. Após compilar, você deve digitar o seguinte comando no terminal:
 ```
 run 1600ns
 ```
