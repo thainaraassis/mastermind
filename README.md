@@ -10,6 +10,7 @@ Para executá-lo, siga os seguintes passos:
 
 1. Ter o VSCode, o Questa e o Quartus instalado, para isso, você pode seguir o tutorial fornecido pelos professores da disciplina no moodle, aula 7. 
 2. Deixar a pasta que contém os arquivos em verilog e o testbench no mesmo ambiente em que estão o Questa e Quartus instalados.
+3. Baixar a extensão de verilog no VSCode.
 3. Agora, para poder compilar os arquivos, escreva, em ordem, os seguintes comandos no terminal do VSCode:
 ````
 vlog nome_do_codigo.v
