@@ -40,4 +40,4 @@ vlog encod4x2_tb.v
 ```
 vsim -c work.encod4x2_tb
 ```
-![foto do jogo mastermind](https://www.google.com/search?q=mastermind&sxsrf=ALiCzsZk5_IowjcPyI1bKIIsH8W7DDUBXw:1669686475676&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjLgpPqotL7AhUZvJUCHUwCBFAQ_AUoAXoECAIQAw&biw=1366&bih=649&dpr=1#imgrc=NHaB2KKZ0xrFLM)
+![foto do jogo mastermind](https://m.media-amazon.com/images/I/81Dl8jsSJ4L._AC_SL1500_.jpg)
