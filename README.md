@@ -11,13 +11,13 @@ Para executá-lo, siga os seguintes passos:
 
 3. Agora, para poder compilar os arquivos, escreva, em ordem, os seguintes comandos no terminal do VSCode:
 
-* ````
+````
 vlog nome_do_codigo.v
 ````
-* ```
+```
 vlog nome_do_codigo_tb.v
 ```
-* ```
+```
 vsim -c nome_da_pasta_com_os_arquivos.nome_do_codigo_tb
 ```
 
@@ -31,13 +31,13 @@ Com tudo isso feito, você verá no terminal os valores das entradas e saídas d
 
 Para melhor entendimento, segue um exemplo dos comandos para o teste do nosso _encoder_, que está dentro da pasta _work_.
 
-* ````
+````
 vlog encod4x2.v
 ````
-* ```
+```
 vlog encod4x2_tb.v
 ```
-* ```
+```
 vsim -c work.encod4x2_tb
 ```
 
