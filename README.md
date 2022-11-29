@@ -1,6 +1,8 @@
 # ⚪🔴🔵🟢 mastermind🕹️
 Projeto para a matéria PCS3115 - Sistemas Digitais I - utilizando circuitos combinacionais e sequenciais para reprodução do jogo "mastermind" ou  "senha".
 
+![foto do jogo mastermind](https://m.media-amazon.com/images/I/81Dl8jsSJ4L._AC_SL1500_.jpg)
+
 Bem-vindos ao nosso repositório :)! Nesse README, explicaremos como testar e executar nosso projeto, utilizando os arquivos em verilog e o testbench incluidos aqui.
 
 Para executá-lo, siga os seguintes passos:
@@ -40,4 +42,3 @@ vlog encod4x2_tb.v
 ```
 vsim -c work.encod4x2_tb
 ```
-![foto do jogo mastermind](https://m.media-amazon.com/images/I/81Dl8jsSJ4L._AC_SL1500_.jpg)
