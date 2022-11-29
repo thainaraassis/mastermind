@@ -45,6 +45,6 @@ vsim -c work.encod4x2_tb
 Para poder jogar o "senha", você precisará seguir os seguintes passos:
 1. Baixar o software utilizado através [desse](https://sourceforge.net/projects/logisimevolution/) link.
 2. Assim que baixado, basta abrir o arquivo (que foi enviado em uma pasta.zip juntamente com o relatório do projeto) com o Logisim e acessar o circuito de nome "Hipocomp". 
-3. O funcionamento do jogo é bem simples, estando mais especificado no relatório. Porém, basta, em uma primeira vez, definir a senha desejada, apertando 4 botões em sequência. Em seguida, o modo passará para as tentativas, na qual você pode pressionar uma sequência de 4 botões para acertar a senha. Caso um botão pressionado esteja correto, um led vermelhor ligará. Quando os 4 leds ficarem vermelho, ou então, quando o led conectado à porta AND ligar, você terá ganhado.
+3. O funcionamento do jogo é bem simples, estando mais especificado no relatório. Porém, basta, em uma primeira vez, definir a senha desejada, apertando 4 botões em sequência. Em seguida, o modo passará para as tentativas, na qual você pode pressionar uma sequência de 4 botões para acertar a senha. Caso um botão pressionado esteja correto, um led vermelho ligará. Quando os 4 leds ficarem vermelho, ou então, quando o led conectado à porta AND ligar, você terá ganhado.
 
 Assim você poderá se divertir entre amigos e familiares gravando senhas e tentando acertá-las!!
